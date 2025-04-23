@@ -5,7 +5,7 @@ A JavaFX-based shopping cart application that allows customers to sign up, log i
 -----Features------
 Customer: Sign up, log in, manage cart, checkout simulation, view order history,buynow(in a simple manner).
 Suppose if a customer logins and exit the program ,then he doesnt need to login again when we execute the program next time,just like in a real mobile app!!
-Admin: Log in, manage product catalog.
+Admin: Log in, manage product catalog and view custumer details like his order history.
 
 -----Technologies------
 JavaFX for GUI
